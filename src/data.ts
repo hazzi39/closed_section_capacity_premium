@@ -3190,1377 +3190,1377 @@
     "Moment Ms (kNm)": 234.0,
     "Shear Vv (kN)": 780,
     "Torsion Mz (kNm)": 184.0
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "250x250x6.0SHS",
-    "Mass per m (kg/m)": 45.0,
-    "Axial Compression Ns (kN)": 1540,
-    "Axial Tension Nt (kN)": 1810,
-    "Moment Ms (kNm)": 129.0,
-    "Shear Vv (kN)": 533,
-    "Torsion Mz (kNm)": 129.0
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "200x200x9.0SHS",
-    "Mass per m (kg/m)": 51.8,
-    "Axial Compression Ns (kN)": 2080,
-    "Axial Tension Nt (kN)": 2080,
-    "Moment Ms (kNm)": 147.0,
-    "Shear Vv (kN)": 612,
-    "Torsion Mz (kNm)": 113.0
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "200x200x6.0SHS",
-    "Mass per m (kg/m)": 35.6,
-    "Axial Compression Ns (kN)": 1430,
-    "Axial Tension Nt (kN)": 1430,
-    "Moment Ms (kNm)": 92.5,
-    "Shear Vv (kN)": 421,
-    "Torsion Mz (kNm)": 80.3
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "200x200x5.0SHS",
-    "Mass per m (kg/m)": 29.9,
-    "Axial Compression Ns (kN)": 1070,
-    "Axial Tension Nt (kN)": 1200,
-    "Moment Ms (kNm)": 70.1,
-    "Shear Vv (kN)": 355,
-    "Torsion Mz (kNm)": 68.3
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "150x150x9.0SHS",
-    "Mass per m (kg/m)": 37.7,
-    "Axial Compression Ns (kN)": 1510,
-    "Axial Tension Nt (kN)": 1510,
-    "Moment Ms (kNm)": 78.2,
-    "Shear Vv (kN)": 444,
-    "Torsion Mz (kNm)": 59.7
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "150x150x6.0SHS",
-    "Mass per m (kg/m)": 26.2,
-    "Axial Compression Ns (kN)": 1050,
-    "Axial Tension Nt (kN)": 1050,
-    "Moment Ms (kNm)": 55.9,
-    "Shear Vv (kN)": 309,
-    "Torsion Mz (kNm)": 43.3
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "150x150x5.0SHS",
-    "Mass per m (kg/m)": 22.1,
-    "Axial Compression Ns (kN)": 886,
-    "Axial Tension Nt (kN)": 886,
-    "Moment Ms (kNm)": 45.5,
-    "Shear Vv (kN)": 261,
-    "Torsion Mz (kNm)": 37.1
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "150x150x4.0SHS",
-    "Mass per m (kg/m)": 17.9,
-    "Axial Compression Ns (kN)": 684,
-    "Axial Tension Nt (kN)": 719,
-    "Moment Ms (kNm)": 32.6,
-    "Shear Vv (kN)": 212,
-    "Torsion Mz (kNm)": 30.5
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "150x150x3.0SHS",
-    "Mass per m (kg/m)": 13.7,
-    "Axial Compression Ns (kN)": 387,
-    "Axial Tension Nt (kN)": 548,
-    "Moment Ms (kNm)": 21.4,
-    "Shear Vv (kN)": 161,
-    "Torsion Mz (kNm)": 23.5
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "125x125x9.0SHS",
-    "Mass per m (kg/m)": 30.6,
-    "Axial Compression Ns (kN)": 1230,
-    "Axial Tension Nt (kN)": 1230,
-    "Moment Ms (kNm)": 52.0,
-    "Shear Vv (kN)": 360,
-    "Torsion Mz (kNm)": 39.3
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "125x125x6.0SHS",
-    "Mass per m (kg/m)": 21.4,
-    "Axial Compression Ns (kN)": 861,
-    "Axial Tension Nt (kN)": 861,
-    "Moment Ms (kNm)": 37.8,
-    "Shear Vv (kN)": 253,
-    "Torsion Mz (kNm)": 29.1
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "125x125x5.0SHS",
-    "Mass per m (kg/m)": 18.2,
-    "Axial Compression Ns (kN)": 729,
-    "Axial Tension Nt (kN)": 729,
-    "Moment Ms (kNm)": 32.4,
-    "Shear Vv (kN)": 215,
-    "Torsion Mz (kNm)": 25.1
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "125x125x4.0SHS",
-    "Mass per m (kg/m)": 14.8,
-    "Axial Compression Ns (kN)": 593,
-    "Axial Tension Nt (kN)": 593,
-    "Moment Ms (kNm)": 24.8,
-    "Shear Vv (kN)": 175,
-    "Torsion Mz (kNm)": 20.7
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "100x100x9.0SHS",
-    "Mass per m (kg/m)": 23.5,
-    "Axial Compression Ns (kN)": 944,
-    "Axial Tension Nt (kN)": 944,
-    "Moment Ms (kNm)": 31.0,
-    "Shear Vv (kN)": 276,
-    "Torsion Mz (kNm)": 23.2
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "100x100x6.0SHS",
-    "Mass per m (kg/m)": 16.7,
-    "Axial Compression Ns (kN)": 672,
-    "Axial Tension Nt (kN)": 672,
-    "Moment Ms (kNm)": 23.2,
-    "Shear Vv (kN)": 197,
-    "Torsion Mz (kNm)": 17.7
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "100x100x5.0SHS",
-    "Mass per m (kg/m)": 14.2,
-    "Axial Compression Ns (kN)": 571,
-    "Axial Tension Nt (kN)": 571,
-    "Moment Ms (kNm)": 20.0,
-    "Shear Vv (kN)": 168,
-    "Torsion Mz (kNm)": 15.4
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "100x100x4.0SHS",
-    "Mass per m (kg/m)": 11.6,
-    "Axial Compression Ns (kN)": 467,
-    "Axial Tension Nt (kN)": 467,
-    "Moment Ms (kNm)": 16.6,
-    "Shear Vv (kN)": 137,
-    "Torsion Mz (kNm)": 12.8
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "100x100x3.0SHS",
-    "Mass per m (kg/m)": 8.96,
-    "Axial Compression Ns (kN)": 359,
-    "Axial Tension Nt (kN)": 359,
-    "Moment Ms (kNm)": 11.7,
-    "Shear Vv (kN)": 105,
-    "Torsion Mz (kNm)": 10.1
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "100x100x2.5SHS",
-    "Mass per m (kg/m)": 7.53,
-    "Axial Compression Ns (kN)": 269,
-    "Axial Tension Nt (kN)": 302,
-    "Moment Ms (kNm)": 8.84,
-    "Shear Vv (kN)": 88,
-    "Torsion Mz (kNm)": 8.55
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "100x100x2.0SHS",
-    "Mass per m (kg/m)": 6.07,
-    "Axial Compression Ns (kN)": 172,
-    "Axial Tension Nt (kN)": 244,
-    "Moment Ms (kNm)": 6.33,
-    "Shear Vv (kN)": 71,
-    "Torsion Mz (kNm)": 6.98
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "89x89x6.0SHS",
-    "Mass per m (kg/m)": 14.7,
-    "Axial Compression Ns (kN)": 589,
-    "Axial Tension Nt (kN)": 589,
-    "Moment Ms (kNm)": 17.9,
-    "Shear Vv (kN)": 172,
-    "Torsion Mz (kNm)": 13.6
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "89x89x5.0SHS",
-    "Mass per m (kg/m)": 12.5,
-    "Axial Compression Ns (kN)": 502,
-    "Axial Tension Nt (kN)": 502,
-    "Moment Ms (kNm)": 15.5,
-    "Shear Vv (kN)": 147,
-    "Torsion Mz (kNm)": 11.9
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "89x89x4.0SHS",
-    "Mass per m (kg/m)": 10.2,
-    "Axial Compression Ns (kN)": 411,
-    "Axial Tension Nt (kN)": 411,
-    "Moment Ms (kNm)": 12.9,
-    "Shear Vv (kN)": 121,
-    "Torsion Mz (kNm)": 9.96
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "89x89x3.5SHS",
-    "Mass per m (kg/m)": 9.07,
-    "Axial Compression Ns (kN)": 364,
-    "Axial Tension Nt (kN)": 364,
-    "Moment Ms (kNm)": 11.5,
-    "Shear Vv (kN)": 107,
-    "Torsion Mz (kNm)": 8.93
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "89x89x2.0SHS",
-    "Mass per m (kg/m)": 5.38,
-    "Axial Compression Ns (kN)": 172,
-    "Axial Tension Nt (kN)": 216,
-    "Moment Ms (kNm)": 5.31,
-    "Shear Vv (kN)": 63,
-    "Torsion Mz (kNm)": 5.47
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "89x89x6.0SHS",
-    "Mass per m (kg/m)": 14.7,
-    "Axial Compression Ns (kN)": 589,
-    "Axial Tension Nt (kN)": 589,
-    "Moment Ms (kNm)": 17.9,
-    "Shear Vv (kN)": 172,
-    "Torsion Mz (kNm)": 13.6
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "89x89x5.0SHS",
-    "Mass per m (kg/m)": 12.5,
-    "Axial Compression Ns (kN)": 502,
-    "Axial Tension Nt (kN)": 502,
-    "Moment Ms (kNm)": 15.5,
-    "Shear Vv (kN)": 147,
-    "Torsion Mz (kNm)": 11.9
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "89x89x4.0SHS",
-    "Mass per m (kg/m)": 10.2,
-    "Axial Compression Ns (kN)": 411,
-    "Axial Tension Nt (kN)": 411,
-    "Moment Ms (kNm)": 12.9,
-    "Shear Vv (kN)": 121,
-    "Torsion Mz (kNm)": 9.96
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "89x89x3.5SHS",
-    "Mass per m (kg/m)": 9.07,
-    "Axial Compression Ns (kN)": 364,
-    "Axial Tension Nt (kN)": 364,
-    "Moment Ms (kNm)": 11.5,
-    "Shear Vv (kN)": 107,
-    "Torsion Mz (kNm)": 8.93
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "89x89x2.0SHS",
-    "Mass per m (kg/m)": 5.38,
-    "Axial Compression Ns (kN)": 172,
-    "Axial Tension Nt (kN)": 216,
-    "Moment Ms (kNm)": 5.31,
-    "Shear Vv (kN)": 63,
-    "Torsion Mz (kNm)": 5.47
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "75x75x6.0SHS",
-    "Mass per m (kg/m)": 12.0,
-    "Axial Compression Ns (kN)": 483,
-    "Axial Tension Nt (kN)": 483,
-    "Moment Ms (kNm)": 12.1,
-    "Shear Vv (kN)": 141,
-    "Torsion Mz (kNm)": 9.11
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "75x75x5.0SHS",
-    "Mass per m (kg/m)": 10.3,
-    "Axial Compression Ns (kN)": 414,
-    "Axial Tension Nt (kN)": 414,
-    "Moment Ms (kNm)": 10.6,
-    "Shear Vv (kN)": 121,
-    "Torsion Mz (kNm)": 8.06
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "75x75x4.0SHS",
-    "Mass per m (kg/m)": 8.49,
-    "Axial Compression Ns (kN)": 341,
-    "Axial Tension Nt (kN)": 341,
-    "Moment Ms (kNm)": 8.9,
-    "Shear Vv (kN)": 100,
-    "Torsion Mz (kNm)": 6.83
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "75x75x3.5SHS",
-    "Mass per m (kg/m)": 7.53,
-    "Axial Compression Ns (kN)": 302,
-    "Axial Tension Nt (kN)": 302,
-    "Moment Ms (kNm)": 7.97,
-    "Shear Vv (kN)": 88,
-    "Torsion Mz (kNm)": 6.15
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "75x75x3.0SHS",
-    "Mass per m (kg/m)": 6.6,
-    "Axial Compression Ns (kN)": 265,
-    "Axial Tension Nt (kN)": 265,
-    "Moment Ms (kNm)": 7.08,
-    "Shear Vv (kN)": 77,
-    "Torsion Mz (kNm)": 5.43
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "75x75x2.5SHS",
-    "Mass per m (kg/m)": 5.56,
-    "Axial Compression Ns (kN)": 223,
-    "Axial Tension Nt (kN)": 223,
-    "Moment Ms (kNm)": 5.75,
-    "Shear Vv (kN)": 65,
-    "Torsion Mz (kNm)": 4.65
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "75x75x2.0SHS",
-    "Mass per m (kg/m)": 4.5,
-    "Axial Compression Ns (kN)": 172,
-    "Axial Tension Nt (kN)": 181,
-    "Moment Ms (kNm)": 4.12,
-    "Shear Vv (kN)": 53,
-    "Torsion Mz (kNm)": 3.82
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "65x65x6.0SHS",
-    "Mass per m (kg/m)": 10.1,
-    "Axial Compression Ns (kN)": 407,
-    "Axial Tension Nt (kN)": 407,
-    "Moment Ms (kNm)": 8.67,
-    "Shear Vv (kN)": 119,
-    "Torsion Mz (kNm)": 6.46
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "65x65x5.0SHS",
-    "Mass per m (kg/m)": 8.75,
-    "Axial Compression Ns (kN)": 351,
-    "Axial Tension Nt (kN)": 351,
-    "Moment Ms (kNm)": 7.66,
-    "Shear Vv (kN)": 103,
-    "Torsion Mz (kNm)": 5.78
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "65x65x4.0SHS",
-    "Mass per m (kg/m)": 7.23,
-    "Axial Compression Ns (kN)": 290,
-    "Axial Tension Nt (kN)": 290,
-    "Moment Ms (kNm)": 6.49,
-    "Shear Vv (kN)": 85,
-    "Torsion Mz (kNm)": 4.95
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "65x65x3.0SHS",
-    "Mass per m (kg/m)": 5.66,
-    "Axial Compression Ns (kN)": 227,
-    "Axial Tension Nt (kN)": 227,
-    "Moment Ms (kNm)": 5.22,
-    "Shear Vv (kN)": 66,
-    "Torsion Mz (kNm)": 3.98
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "65x65x2.5SHS",
-    "Mass per m (kg/m)": 4.78,
-    "Axial Compression Ns (kN)": 192,
-    "Axial Tension Nt (kN)": 192,
-    "Moment Ms (kNm)": 4.45,
-    "Shear Vv (kN)": 56,
-    "Torsion Mz (kNm)": 3.42
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "65x65x2.0SHS",
-    "Mass per m (kg/m)": 3.88,
-    "Axial Compression Ns (kN)": 156,
-    "Axial Tension Nt (kN)": 156,
-    "Moment Ms (kNm)": 3.33,
-    "Shear Vv (kN)": 45,
-    "Torsion Mz (kNm)": 2.82
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "65x65x1.6SHS",
-    "Mass per m (kg/m)": 3.13,
-    "Axial Compression Ns (kN)": 110,
-    "Axial Tension Nt (kN)": 126,
-    "Moment Ms (kNm)": 2.37,
-    "Shear Vv (kN)": 36,
-    "Torsion Mz (kNm)": 2.31
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "64x64x6.0SHS",
-    "Mass per m (kg/m)": 9.96,
-    "Axial Compression Ns (kN)": 400,
-    "Axial Tension Nt (kN)": 400,
-    "Moment Ms (kNm)": 8.35,
-    "Shear Vv (kN)": 116,
-    "Torsion Mz (kNm)": 6.22
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "51.5x51.5x4.0SHS",
-    "Mass per m (kg/m)": 5.53,
-    "Axial Compression Ns (kN)": 222,
-    "Axial Tension Nt (kN)": 222,
-    "Moment Ms (kNm)": 3.84,
-    "Shear Vv (kN)": 65,
-    "Torsion Mz (kNm)": 2.89
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "50x50x5.0SHS",
-    "Mass per m (kg/m)": 6.39,
-    "Axial Compression Ns (kN)": 256,
-    "Axial Tension Nt (kN)": 256,
-    "Moment Ms (kNm)": 4.14,
-    "Shear Vv (kN)": 74,
-    "Torsion Mz (kNm)": 3.07
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "50x50x4.0SHS",
-    "Mass per m (kg/m)": 5.35,
-    "Axial Compression Ns (kN)": 215,
-    "Axial Tension Nt (kN)": 215,
-    "Moment Ms (kNm)": 3.59,
-    "Shear Vv (kN)": 62,
-    "Torsion Mz (kNm)": 2.7
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "50x50x3.0SHS",
-    "Mass per m (kg/m)": 4.25,
-    "Axial Compression Ns (kN)": 170,
-    "Axial Tension Nt (kN)": 170,
-    "Moment Ms (kNm)": 2.96,
-    "Shear Vv (kN)": 49,
-    "Torsion Mz (kNm)": 2.22
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "50x50x2.5SHS",
-    "Mass per m (kg/m)": 3.6,
-    "Axial Compression Ns (kN)": 145,
-    "Axial Tension Nt (kN)": 145,
-    "Moment Ms (kNm)": 2.54,
-    "Shear Vv (kN)": 42,
-    "Torsion Mz (kNm)": 1.93
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "50x50x2.0SHS",
-    "Mass per m (kg/m)": 2.93,
-    "Axial Compression Ns (kN)": 118,
-    "Axial Tension Nt (kN)": 118,
-    "Moment Ms (kNm)": 2.1,
-    "Shear Vv (kN)": 34,
-    "Torsion Mz (kNm)": 1.61
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "50x50x1.6SHS",
-    "Mass per m (kg/m)": 2.38,
-    "Axial Compression Ns (kN)": 95,
-    "Axial Tension Nt (kN)": 95,
-    "Moment Ms (kNm)": 1.61,
-    "Shear Vv (kN)": 28,
-    "Torsion Mz (kNm)": 1.33
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "40x40x4.0SHS",
-    "Mass per m (kg/m)": 4.09,
-    "Axial Compression Ns (kN)": 164,
-    "Axial Tension Nt (kN)": 164,
-    "Moment Ms (kNm)": 2.12,
-    "Shear Vv (kN)": 47,
-    "Torsion Mz (kNm)": 1.57
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "40x40x3.0SHS",
-    "Mass per m (kg/m)": 3.3,
-    "Axial Compression Ns (kN)": 133,
-    "Axial Tension Nt (kN)": 133,
-    "Moment Ms (kNm)": 1.8,
-    "Shear Vv (kN)": 38,
-    "Torsion Mz (kNm)": 1.34
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "40x40x2.5SHS",
-    "Mass per m (kg/m)": 2.82,
-    "Axial Compression Ns (kN)": 113,
-    "Axial Tension Nt (kN)": 113,
-    "Moment Ms (kNm)": 1.56,
-    "Shear Vv (kN)": 32,
-    "Torsion Mz (kNm)": 1.17
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "40x40x2.0SHS",
-    "Mass per m (kg/m)": 2.31,
-    "Axial Compression Ns (kN)": 92,
-    "Axial Tension Nt (kN)": 92,
-    "Moment Ms (kNm)": 1.3,
-    "Shear Vv (kN)": 26,
-    "Torsion Mz (kNm)": 0.989
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "40x40x1.6SHS",
-    "Mass per m (kg/m)": 1.88,
-    "Axial Compression Ns (kN)": 75,
-    "Axial Tension Nt (kN)": 75,
-    "Moment Ms (kNm)": 1.07,
-    "Shear Vv (kN)": 22,
-    "Torsion Mz (kNm)": 0.824
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "35x35x3.0SHS",
-    "Mass per m (kg/m)": 2.83,
-    "Axial Compression Ns (kN)": 114,
-    "Axial Tension Nt (kN)": 114,
-    "Moment Ms (kNm)": 1.33,
-    "Shear Vv (kN)": 32,
-    "Torsion Mz (kNm)": 0.978
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "35x35x2.5SHS",
-    "Mass per m (kg/m)": 2.42,
-    "Axial Compression Ns (kN)": 97,
-    "Axial Tension Nt (kN)": 97,
-    "Moment Ms (kNm)": 1.16,
-    "Shear Vv (kN)": 28,
-    "Torsion Mz (kNm)": 0.866
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "35x35x2.0SHS",
-    "Mass per m (kg/m)": 1.99,
-    "Axial Compression Ns (kN)": 79,
-    "Axial Tension Nt (kN)": 79,
-    "Moment Ms (kNm)": 0.975,
-    "Shear Vv (kN)": 23,
-    "Torsion Mz (kNm)": 0.735
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "35x35x1.6SHS",
-    "Mass per m (kg/m)": 1.63,
-    "Axial Compression Ns (kN)": 65,
-    "Axial Tension Nt (kN)": 65,
-    "Moment Ms (kNm)": 0.808,
-    "Shear Vv (kN)": 19,
-    "Torsion Mz (kNm)": 0.616
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "30x30x3.0SHS",
-    "Mass per m (kg/m)": 2.36,
-    "Axial Compression Ns (kN)": 94,
-    "Axial Tension Nt (kN)": 94,
-    "Moment Ms (kNm)": 0.932,
-    "Shear Vv (kN)": 26,
-    "Torsion Mz (kNm)": 0.676
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "30x30x2.5SHS",
-    "Mass per m (kg/m)": 2.03,
-    "Axial Compression Ns (kN)": 81,
-    "Axial Tension Nt (kN)": 81,
-    "Moment Ms (kNm)": 0.822,
-    "Shear Vv (kN)": 23,
-    "Torsion Mz (kNm)": 0.605
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "30x30x2.0SHS",
-    "Mass per m (kg/m)": 1.68,
-    "Axial Compression Ns (kN)": 67,
-    "Axial Tension Nt (kN)": 67,
-    "Moment Ms (kNm)": 0.695,
-    "Shear Vv (kN)": 19,
-    "Torsion Mz (kNm)": 0.519
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "30x30x1.6SHS",
-    "Mass per m (kg/m)": 1.38,
-    "Axial Compression Ns (kN)": 55,
-    "Axial Tension Nt (kN)": 55,
-    "Moment Ms (kNm)": 0.58,
-    "Shear Vv (kN)": 16,
-    "Torsion Mz (kNm)": 0.439
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "25x25x3.0SHS",
-    "Mass per m (kg/m)": 1.89,
-    "Axial Compression Ns (kN)": 75,
-    "Axial Tension Nt (kN)": 75,
-    "Moment Ms (kNm)": 0.603,
-    "Shear Vv (kN)": 21,
-    "Torsion Mz (kNm)": 0.43
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "25x25x2.5SHS",
-    "Mass per m (kg/m)": 1.64,
-    "Axial Compression Ns (kN)": 65,
-    "Axial Tension Nt (kN)": 65,
-    "Moment Ms (kNm)": 0.539,
-    "Shear Vv (kN)": 18,
-    "Torsion Mz (kNm)": 0.391
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "25x25x2.0SHS",
-    "Mass per m (kg/m)": 1.36,
-    "Axial Compression Ns (kN)": 54,
-    "Axial Tension Nt (kN)": 54,
-    "Moment Ms (kNm)": 0.462,
-    "Shear Vv (kN)": 15,
-    "Torsion Mz (kNm)": 0.341
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "25x25x1.6SHS",
-    "Mass per m (kg/m)": 1.12,
-    "Axial Compression Ns (kN)": 45,
-    "Axial Tension Nt (kN)": 45,
-    "Moment Ms (kNm)": 0.389,
-    "Shear Vv (kN)": 13,
-    "Torsion Mz (kNm)": 0.292
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "20x20x2.0SHS",
-    "Mass per m (kg/m)": 1.05,
-    "Axial Compression Ns (kN)": 42,
-    "Axial Tension Nt (kN)": 42,
-    "Moment Ms (kNm)": 0.276,
-    "Shear Vv (kN)": 11,
-    "Torsion Mz (kNm)": 0.2
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C350",
-    "Designation": "20x20x1.6SHS",
-    "Mass per m (kg/m)": 0.873,
-    "Axial Compression Ns (kN)": 35,
-    "Axial Tension Nt (kN)": 35,
-    "Moment Ms (kNm)": 0.236,
-    "Shear Vv (kN)": 10,
-    "Torsion Mz (kNm)": 0.175
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "150x150 x 6.0 SHS",
-    "Mass per m (kg/m)": 26.2,
-    "Axial Compression Ns (kN)": 1350,
-    "Axial Tension Nt (kN)": 1270,
-    "Moment Ms (kNm)": 71.0,
-    "Shear Vv (kN)": 397,
-    "Torsion Mz (kNm)": 55.7
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "150x150 x 5.0 SHS",
-    "Mass per m (kg/m)": 22.1,
-    "Axial Compression Ns (kN)": 1140,
-    "Axial Tension Nt (kN)": 1080,
-    "Moment Ms (kNm)": 54.6,
-    "Shear Vv (kN)": 336,
-    "Torsion Mz (kNm)": 47.8
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "150x150 x 4.0 SHS",
-    "Mass per m (kg/m)": 17.9,
-    "Axial Compression Ns (kN)": 776,
-    "Axial Tension Nt (kN)": 873,
-    "Moment Ms (kNm)": 38.9,
-    "Shear Vv (kN)": 273,
-    "Torsion Mz (kNm)": 39.3
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "125x125 x 6.0 SHS",
-    "Mass per m (kg/m)": 21.4,
-    "Axial Compression Ns (kN)": 1110,
-    "Axial Tension Nt (kN)": 1050,
-    "Moment Ms (kNm)": 48.6,
-    "Shear Vv (kN)": 325,
-    "Torsion Mz (kNm)": 37.4
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "125x125 x 5.0 SHS",
-    "Mass per m (kg/m)": 18.2,
-    "Axial Compression Ns (kN)": 937,
-    "Axial Tension Nt (kN)": 885,
-    "Moment Ms (kNm)": 41.1,
-    "Shear Vv (kN)": 276,
-    "Torsion Mz (kNm)": 32.3
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "125x125 x 4.0 SHS",
-    "Mass per m (kg/m)": 14.8,
-    "Axial Compression Ns (kN)": 762,
-    "Axial Tension Nt (kN)": 720,
-    "Moment Ms (kNm)": 29.7,
-    "Shear Vv (kN)": 225,
-    "Torsion Mz (kNm)": 26.7
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "100x100 x 6.0 SHS",
-    "Mass per m (kg/m)": 16.7,
-    "Axial Compression Ns (kN)": 864,
-    "Axial Tension Nt (kN)": 816,
-    "Moment Ms (kNm)": 29.8,
-    "Shear Vv (kN)": 253,
-    "Torsion Mz (kNm)": 22.7
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "100x100 x 5.0 SHS",
-    "Mass per m (kg/m)": 14.2,
-    "Axial Compression Ns (kN)": 735,
-    "Axial Tension Nt (kN)": 694,
-    "Moment Ms (kNm)": 25.7,
-    "Shear Vv (kN)": 216,
-    "Torsion Mz (kNm)": 19.8
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "100x100 x 4.0 SHS",
-    "Mass per m (kg/m)": 11.6,
-    "Axial Compression Ns (kN)": 600,
-    "Axial Tension Nt (kN)": 567,
-    "Moment Ms (kNm)": 21.0,
-    "Shear Vv (kN)": 177,
-    "Torsion Mz (kNm)": 16.5
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "100x100 x 3.8 SHS",
-    "Mass per m (kg/m)": 11.1,
-    "Axial Compression Ns (kN)": 572,
-    "Axial Tension Nt (kN)": 540,
-    "Moment Ms (kNm)": 19.6,
-    "Shear Vv (kN)": 169,
-    "Torsion Mz (kNm)": 15.8
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "100x100 x 3.3 SHS",
-    "Mass per m (kg/m)": 9.73,
-    "Axial Compression Ns (kN)": 502,
-    "Axial Tension Nt (kN)": 474,
-    "Moment Ms (kNm)": 15.9,
-    "Shear Vv (kN)": 148,
-    "Torsion Mz (kNm)": 14.0
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "100x100 x 3.0 SHS",
-    "Mass per m (kg/m)": 8.96,
-    "Axial Compression Ns (kN)": 440,
-    "Axial Tension Nt (kN)": 436,
-    "Moment Ms (kNm)": 13.9,
-    "Shear Vv (kN)": 135,
-    "Torsion Mz (kNm)": 12.9
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "100x100 x 2.8 SHS",
-    "Mass per m (kg/m)": 8.39,
-    "Axial Compression Ns (kN)": 383,
-    "Axial Tension Nt (kN)": 409,
-    "Moment Ms (kNm)": 12.5,
-    "Shear Vv (kN)": 127,
-    "Torsion Mz (kNm)": 12.2
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "100x100 x 2.5 SHS",
-    "Mass per m (kg/m)": 7.53,
-    "Axial Compression Ns (kN)": 305,
-    "Axial Tension Nt (kN)": 367,
-    "Moment Ms (kNm)": 10.6,
-    "Shear Vv (kN)": 114,
-    "Torsion Mz (kNm)": 11.0
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "100x100 x 2.3 SHS",
-    "Mass per m (kg/m)": 6.95,
-    "Axial Compression Ns (kN)": 259,
-    "Axial Tension Nt (kN)": 339,
-    "Moment Ms (kNm)": 9.35,
-    "Shear Vv (kN)": 105,
-    "Torsion Mz (kNm)": 10.2
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "100x100 x 2.0 SHS",
-    "Mass per m (kg/m)": 6.07,
-    "Axial Compression Ns (kN)": 196,
-    "Axial Tension Nt (kN)": 296,
-    "Moment Ms (kNm)": 7.63,
-    "Shear Vv (kN)": 92,
-    "Torsion Mz (kNm)": 8.97
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "90x90 x 3.0 SHS",
-    "Mass per m (kg/m)": 8.01,
-    "Axial Compression Ns (kN)": 413,
-    "Axial Tension Nt (kN)": 390,
-    "Moment Ms (kNm)": 11.9,
-    "Shear Vv (kN)": 121,
-    "Torsion Mz (kNm)": 10.3
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "90x90 x 2.5 SHS",
-    "Mass per m (kg/m)": 6.74,
-    "Axial Compression Ns (kN)": 305,
-    "Axial Tension Nt (kN)": 329,
-    "Moment Ms (kNm)": 9.03,
-    "Shear Vv (kN)": 102,
-    "Torsion Mz (kNm)": 8.8
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "90x90 x 2.0 SHS",
-    "Mass per m (kg/m)": 5.45,
-    "Axial Compression Ns (kN)": 196,
-    "Axial Tension Nt (kN)": 265,
-    "Moment Ms (kNm)": 6.48,
-    "Shear Vv (kN)": 82,
-    "Torsion Mz (kNm)": 7.2
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "89x89 x 6.0 SHS",
-    "Mass per m (kg/m)": 14.7,
-    "Axial Compression Ns (kN)": 757,
-    "Axial Tension Nt (kN)": 715,
-    "Moment Ms (kNm)": 23.0,
-    "Shear Vv (kN)": 222,
-    "Torsion Mz (kNm)": 17.4
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "89x89 x 5.0 SHS",
-    "Mass per m (kg/m)": 12.5,
-    "Axial Compression Ns (kN)": 646,
-    "Axial Tension Nt (kN)": 610,
-    "Moment Ms (kNm)": 19.9,
-    "Shear Vv (kN)": 190,
-    "Torsion Mz (kNm)": 15.3
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "89x89 x 3.5 SHS",
-    "Mass per m (kg/m)": 9.07,
-    "Axial Compression Ns (kN)": 468,
-    "Axial Tension Nt (kN)": 442,
-    "Moment Ms (kNm)": 14.5,
-    "Shear Vv (kN)": 138,
-    "Torsion Mz (kNm)": 11.5
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "75x75 x 6.0 SHS",
-    "Mass per m (kg/m)": 12.0,
-    "Axial Compression Ns (kN)": 621,
-    "Axial Tension Nt (kN)": 586,
-    "Moment Ms (kNm)": 15.6,
-    "Shear Vv (kN)": 181,
-    "Torsion Mz (kNm)": 11.7
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "75x75 x 5.0 SHS",
-    "Mass per m (kg/m)": 10.3,
-    "Axial Compression Ns (kN)": 532,
-    "Axial Tension Nt (kN)": 503,
-    "Moment Ms (kNm)": 13.6,
-    "Shear Vv (kN)": 156,
-    "Torsion Mz (kNm)": 10.4
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "75x75 x 4.0 SHS",
-    "Mass per m (kg/m)": 8.49,
-    "Axial Compression Ns (kN)": 438,
-    "Axial Tension Nt (kN)": 414,
-    "Moment Ms (kNm)": 11.4,
-    "Shear Vv (kN)": 129,
-    "Torsion Mz (kNm)": 8.78
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "75x75 x 3.5 SHS",
-    "Mass per m (kg/m)": 7.53,
-    "Axial Compression Ns (kN)": 388,
-    "Axial Tension Nt (kN)": 367,
-    "Moment Ms (kNm)": 10.2,
-    "Shear Vv (kN)": 114,
-    "Torsion Mz (kNm)": 7.9
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "75x75 x 3.3 SHS",
-    "Mass per m (kg/m)": 7.14,
-    "Axial Compression Ns (kN)": 368,
-    "Axial Tension Nt (kN)": 348,
-    "Moment Ms (kNm)": 9.75,
-    "Shear Vv (kN)": 108,
-    "Torsion Mz (kNm)": 7.54
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "75x75 x 3.0 SHS",
-    "Mass per m (kg/m)": 6.6,
-    "Axial Compression Ns (kN)": 341,
-    "Axial Tension Nt (kN)": 322,
-    "Moment Ms (kNm)": 8.99,
-    "Shear Vv (kN)": 99,
-    "Torsion Mz (kNm)": 6.98
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "75x75 x 2.8 SHS",
-    "Mass per m (kg/m)": 6.19,
-    "Axial Compression Ns (kN)": 319,
-    "Axial Tension Nt (kN)": 302,
-    "Moment Ms (kNm)": 8.16,
-    "Shear Vv (kN)": 93,
-    "Torsion Mz (kNm)": 6.59
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "75x75 x 2.5 SHS",
-    "Mass per m (kg/m)": 5.56,
-    "Axial Compression Ns (kN)": 287,
-    "Axial Tension Nt (kN)": 271,
-    "Moment Ms (kNm)": 6.9,
-    "Shear Vv (kN)": 84,
-    "Torsion Mz (kNm)": 5.98
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "75x75 x 2.3 SHS",
-    "Mass per m (kg/m)": 5.14,
-    "Axial Compression Ns (kN)": 259,
-    "Axial Tension Nt (kN)": 251,
-    "Moment Ms (kNm)": 6.07,
-    "Shear Vv (kN)": 77,
-    "Torsion Mz (kNm)": 5.56
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "75x75 x 2.0 SHS",
-    "Mass per m (kg/m)": 4.5,
-    "Axial Compression Ns (kN)": 196,
-    "Axial Tension Nt (kN)": 219,
-    "Moment Ms (kNm)": 4.91,
-    "Shear Vv (kN)": 68,
-    "Torsion Mz (kNm)": 4.91
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "75x75x6.0SHS",
-    "Mass per m (kg/m)": 12.0,
-    "Axial Compression Ns (kN)": 621,
-    "Axial Tension Nt (kN)": 586,
-    "Moment Ms (kNm)": 15.6,
-    "Shear Vv (kN)": 181,
-    "Torsion Mz (kNm)": 11.7
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "75x75x5.0SHS",
-    "Mass per m (kg/m)": 10.3,
-    "Axial Compression Ns (kN)": 532,
-    "Axial Tension Nt (kN)": 503,
-    "Moment Ms (kNm)": 13.6,
-    "Shear Vv (kN)": 156,
-    "Torsion Mz (kNm)": 10.4
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "75x75x4.0SHS",
-    "Mass per m (kg/m)": 8.49,
-    "Axial Compression Ns (kN)": 438,
-    "Axial Tension Nt (kN)": 414,
-    "Moment Ms (kNm)": 11.4,
-    "Shear Vv (kN)": 129,
-    "Torsion Mz (kNm)": 8.78
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "75x75x3.5SHS",
-    "Mass per m (kg/m)": 7.53,
-    "Axial Compression Ns (kN)": 388,
-    "Axial Tension Nt (kN)": 367,
-    "Moment Ms (kNm)": 10.2,
-    "Shear Vv (kN)": 114,
-    "Torsion Mz (kNm)": 7.9
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "75x75x3.3SHS",
-    "Mass per m (kg/m)": 7.14,
-    "Axial Compression Ns (kN)": 368,
-    "Axial Tension Nt (kN)": 348,
-    "Moment Ms (kNm)": 9.75,
-    "Shear Vv (kN)": 108,
-    "Torsion Mz (kNm)": 7.54
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "75x75x3.0SHS",
-    "Mass per m (kg/m)": 6.6,
-    "Axial Compression Ns (kN)": 341,
-    "Axial Tension Nt (kN)": 322,
-    "Moment Ms (kNm)": 8.99,
-    "Shear Vv (kN)": 99,
-    "Torsion Mz (kNm)": 6.98
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "75x75x2.8SHS",
-    "Mass per m (kg/m)": 6.19,
-    "Axial Compression Ns (kN)": 319,
-    "Axial Tension Nt (kN)": 302,
-    "Moment Ms (kNm)": 8.16,
-    "Shear Vv (kN)": 93,
-    "Torsion Mz (kNm)": 6.59
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "75x75x2.5SHS",
-    "Mass per m (kg/m)": 5.56,
-    "Axial Compression Ns (kN)": 287,
-    "Axial Tension Nt (kN)": 271,
-    "Moment Ms (kNm)": 6.9,
-    "Shear Vv (kN)": 84,
-    "Torsion Mz (kNm)": 5.98
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "75x75x2.3SHS",
-    "Mass per m (kg/m)": 5.14,
-    "Axial Compression Ns (kN)": 259,
-    "Axial Tension Nt (kN)": 251,
-    "Moment Ms (kNm)": 6.07,
-    "Shear Vv (kN)": 77,
-    "Torsion Mz (kNm)": 5.56
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "75x75x2.0SHS",
-    "Mass per m (kg/m)": 4.5,
-    "Axial Compression Ns (kN)": 196,
-    "Axial Tension Nt (kN)": 219,
-    "Moment Ms (kNm)": 4.91,
-    "Shear Vv (kN)": 68,
-    "Torsion Mz (kNm)": 4.91
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "65x65x6.0SHS",
-    "Mass per m (kg/m)": 10.1,
-    "Axial Compression Ns (kN)": 523,
-    "Axial Tension Nt (kN)": 494,
-    "Moment Ms (kNm)": 11.1,
-    "Shear Vv (kN)": 153,
-    "Torsion Mz (kNm)": 8.31
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "65x65x5.0SHS",
-    "Mass per m (kg/m)": 8.75,
-    "Axial Compression Ns (kN)": 451,
-    "Axial Tension Nt (kN)": 426,
-    "Moment Ms (kNm)": 9.85,
-    "Shear Vv (kN)": 132,
-    "Torsion Mz (kNm)": 7.43
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "65x65x4.0SHS",
-    "Mass per m (kg/m)": 7.23,
-    "Axial Compression Ns (kN)": 373,
-    "Axial Tension Nt (kN)": 352,
-    "Moment Ms (kNm)": 8.34,
-    "Shear Vv (kN)": 109,
-    "Torsion Mz (kNm)": 6.36
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "65x65x3.0SHS",
-    "Mass per m (kg/m)": 5.66,
-    "Axial Compression Ns (kN)": 292,
-    "Axial Tension Nt (kN)": 276,
-    "Moment Ms (kNm)": 6.71,
-    "Shear Vv (kN)": 85,
-    "Torsion Mz (kNm)": 5.11
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "65x65x2.8SHS",
-    "Mass per m (kg/m)": 5.31,
-    "Axial Compression Ns (kN)": 274,
-    "Axial Tension Nt (kN)": 259,
-    "Moment Ms (kNm)": 6.32,
-    "Shear Vv (kN)": 79,
-    "Torsion Mz (kNm)": 4.83
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "65x65x2.5SHS",
-    "Mass per m (kg/m)": 4.78,
-    "Axial Compression Ns (kN)": 247,
-    "Axial Tension Nt (kN)": 233,
-    "Moment Ms (kNm)": 5.54,
-    "Shear Vv (kN)": 72,
-    "Torsion Mz (kNm)": 4.4
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "65x65x2.3SHS",
-    "Mass per m (kg/m)": 4.42,
-    "Axial Compression Ns (kN)": 228,
-    "Axial Tension Nt (kN)": 215,
-    "Moment Ms (kNm)": 4.91,
-    "Shear Vv (kN)": 66,
-    "Torsion Mz (kNm)": 4.1
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "65x65x2.0SHS",
-    "Mass per m (kg/m)": 3.88,
-    "Axial Compression Ns (kN)": 196,
-    "Axial Tension Nt (kN)": 189,
-    "Moment Ms (kNm)": 3.97,
-    "Shear Vv (kN)": 58,
-    "Torsion Mz (kNm)": 3.63
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "65x65x1.6SHS",
-    "Mass per m (kg/m)": 3.13,
-    "Axial Compression Ns (kN)": 125,
-    "Axial Tension Nt (kN)": 153,
-    "Moment Ms (kNm)": 2.84,
-    "Shear Vv (kN)": 47,
-    "Torsion Mz (kNm)": 2.98
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "50x50x5.0SHS",
-    "Mass per m (kg/m)": 6.39,
-    "Axial Compression Ns (kN)": 330,
-    "Axial Tension Nt (kN)": 311,
-    "Moment Ms (kNm)": 5.33,
-    "Shear Vv (kN)": 96,
-    "Torsion Mz (kNm)": 3.95
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "50x50x4.0SHS",
-    "Mass per m (kg/m)": 5.35,
-    "Axial Compression Ns (kN)": 276,
-    "Axial Tension Nt (kN)": 261,
-    "Moment Ms (kNm)": 4.61,
-    "Shear Vv (kN)": 80,
-    "Torsion Mz (kNm)": 3.47
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "50x50x3.0SHS",
-    "Mass per m (kg/m)": 4.25,
-    "Axial Compression Ns (kN)": 219,
-    "Axial Tension Nt (kN)": 207,
-    "Moment Ms (kNm)": 3.8,
-    "Shear Vv (kN)": 63,
-    "Torsion Mz (kNm)": 2.86
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "50x50x2.8SHS",
-    "Mass per m (kg/m)": 3.99,
-    "Axial Compression Ns (kN)": 206,
-    "Axial Tension Nt (kN)": 194,
-    "Moment Ms (kNm)": 3.59,
-    "Shear Vv (kN)": 59,
-    "Torsion Mz (kNm)": 2.71
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "50x50x2.5SHS",
-    "Mass per m (kg/m)": 3.6,
-    "Axial Compression Ns (kN)": 186,
-    "Axial Tension Nt (kN)": 176,
-    "Moment Ms (kNm)": 3.27,
-    "Shear Vv (kN)": 54,
-    "Torsion Mz (kNm)": 2.48
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "50x50x2.3SHS",
-    "Mass per m (kg/m)": 3.34,
-    "Axial Compression Ns (kN)": 172,
-    "Axial Tension Nt (kN)": 163,
-    "Moment Ms (kNm)": 3.05,
-    "Shear Vv (kN)": 50,
-    "Torsion Mz (kNm)": 2.32
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "50x50x2.0SHS",
-    "Mass per m (kg/m)": 2.93,
-    "Axial Compression Ns (kN)": 151,
-    "Axial Tension Nt (kN)": 143,
-    "Moment Ms (kNm)": 2.66,
-    "Shear Vv (kN)": 44,
-    "Torsion Mz (kNm)": 2.07
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "50x50x1.6SHS",
-    "Mass per m (kg/m)": 2.38,
-    "Axial Compression Ns (kN)": 123,
-    "Axial Tension Nt (kN)": 116,
-    "Moment Ms (kNm)": 1.92,
-    "Shear Vv (kN)": 35,
-    "Torsion Mz (kNm)": 1.71
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "40x40x4.0SHS",
-    "Mass per m (kg/m)": 4.09,
-    "Axial Compression Ns (kN)": 211,
-    "Axial Tension Nt (kN)": 199,
-    "Moment Ms (kNm)": 2.73,
-    "Shear Vv (kN)": 61,
-    "Torsion Mz (kNm)": 2.02
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "40x40x3.0SHS",
-    "Mass per m (kg/m)": 3.3,
-    "Axial Compression Ns (kN)": 170,
-    "Axial Tension Nt (kN)": 161,
-    "Moment Ms (kNm)": 2.32,
-    "Shear Vv (kN)": 49,
-    "Torsion Mz (kNm)": 1.72
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "40x40x2.8SHS",
-    "Mass per m (kg/m)": 3.11,
-    "Axial Compression Ns (kN)": 161,
-    "Axial Tension Nt (kN)": 152,
-    "Moment Ms (kNm)": 2.2,
-    "Shear Vv (kN)": 46,
-    "Torsion Mz (kNm)": 1.64
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "40x40x2.5SHS",
-    "Mass per m (kg/m)": 2.82,
-    "Axial Compression Ns (kN)": 145,
-    "Axial Tension Nt (kN)": 137,
-    "Moment Ms (kNm)": 2.01,
-    "Shear Vv (kN)": 42,
-    "Torsion Mz (kNm)": 1.51
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "40x40x2.3SHS",
-    "Mass per m (kg/m)": 2.62,
-    "Axial Compression Ns (kN)": 135,
-    "Axial Tension Nt (kN)": 127,
-    "Moment Ms (kNm)": 1.88,
-    "Shear Vv (kN)": 39,
-    "Torsion Mz (kNm)": 1.42
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "40x40x2.0SHS",
-    "Mass per m (kg/m)": 2.31,
-    "Axial Compression Ns (kN)": 119,
-    "Axial Tension Nt (kN)": 112,
-    "Moment Ms (kNm)": 1.67,
-    "Shear Vv (kN)": 34,
-    "Torsion Mz (kNm)": 1.27
-},
-{
-    "Section Type": "Square Hollow Sections - Grade C450",
-    "Designation": "40x40x1.6SHS",
-    "Mass per m (kg/m)": 1.88,
-    "Axial Compression Ns (kN)": 96,
-    "Axial Tension Nt (kN)": 91,
-    "Moment Ms (kNm)": 1.36,
-    "Shear Vv (kN)": 28,
-    "Torsion Mz (kNm)": 1.06
-}
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "250x250x6.0SHS",
+      "Mass per m (kg/m)": 45.0,
+      "Axial Compression Ns (kN)": 1540,
+      "Axial Tension Nt (kN)": 1810,
+      "Moment Ms (kNm)": 129.0,
+      "Shear Vv (kN)": 533,
+      "Torsion Mz (kNm)": 129.0
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "200x200x9.0SHS",
+      "Mass per m (kg/m)": 51.8,
+      "Axial Compression Ns (kN)": 2080,
+      "Axial Tension Nt (kN)": 2080,
+      "Moment Ms (kNm)": 147.0,
+      "Shear Vv (kN)": 612,
+      "Torsion Mz (kNm)": 113.0
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "200x200x6.0SHS",
+      "Mass per m (kg/m)": 35.6,
+      "Axial Compression Ns (kN)": 1430,
+      "Axial Tension Nt (kN)": 1430,
+      "Moment Ms (kNm)": 92.5,
+      "Shear Vv (kN)": 421,
+      "Torsion Mz (kNm)": 80.3
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "200x200x5.0SHS",
+      "Mass per m (kg/m)": 29.9,
+      "Axial Compression Ns (kN)": 1070,
+      "Axial Tension Nt (kN)": 1200,
+      "Moment Ms (kNm)": 70.1,
+      "Shear Vv (kN)": 355,
+      "Torsion Mz (kNm)": 68.3
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "150x150x9.0SHS",
+      "Mass per m (kg/m)": 37.7,
+      "Axial Compression Ns (kN)": 1510,
+      "Axial Tension Nt (kN)": 1510,
+      "Moment Ms (kNm)": 78.2,
+      "Shear Vv (kN)": 444,
+      "Torsion Mz (kNm)": 59.7
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "150x150x6.0SHS",
+      "Mass per m (kg/m)": 26.2,
+      "Axial Compression Ns (kN)": 1050,
+      "Axial Tension Nt (kN)": 1050,
+      "Moment Ms (kNm)": 55.9,
+      "Shear Vv (kN)": 309,
+      "Torsion Mz (kNm)": 43.3
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "150x150x5.0SHS",
+      "Mass per m (kg/m)": 22.1,
+      "Axial Compression Ns (kN)": 886,
+      "Axial Tension Nt (kN)": 886,
+      "Moment Ms (kNm)": 45.5,
+      "Shear Vv (kN)": 261,
+      "Torsion Mz (kNm)": 37.1
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "150x150x4.0SHS",
+      "Mass per m (kg/m)": 17.9,
+      "Axial Compression Ns (kN)": 684,
+      "Axial Tension Nt (kN)": 719,
+      "Moment Ms (kNm)": 32.6,
+      "Shear Vv (kN)": 212,
+      "Torsion Mz (kNm)": 30.5
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "150x150x3.0SHS",
+      "Mass per m (kg/m)": 13.7,
+      "Axial Compression Ns (kN)": 387,
+      "Axial Tension Nt (kN)": 548,
+      "Moment Ms (kNm)": 21.4,
+      "Shear Vv (kN)": 161,
+      "Torsion Mz (kNm)": 23.5
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "125x125x9.0SHS",
+      "Mass per m (kg/m)": 30.6,
+      "Axial Compression Ns (kN)": 1230,
+      "Axial Tension Nt (kN)": 1230,
+      "Moment Ms (kNm)": 52.0,
+      "Shear Vv (kN)": 360,
+      "Torsion Mz (kNm)": 39.3
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "125x125x6.0SHS",
+      "Mass per m (kg/m)": 21.4,
+      "Axial Compression Ns (kN)": 861,
+      "Axial Tension Nt (kN)": 861,
+      "Moment Ms (kNm)": 37.8,
+      "Shear Vv (kN)": 253,
+      "Torsion Mz (kNm)": 29.1
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "125x125x5.0SHS",
+      "Mass per m (kg/m)": 18.2,
+      "Axial Compression Ns (kN)": 729,
+      "Axial Tension Nt (kN)": 729,
+      "Moment Ms (kNm)": 32.4,
+      "Shear Vv (kN)": 215,
+      "Torsion Mz (kNm)": 25.1
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "125x125x4.0SHS",
+      "Mass per m (kg/m)": 14.8,
+      "Axial Compression Ns (kN)": 593,
+      "Axial Tension Nt (kN)": 593,
+      "Moment Ms (kNm)": 24.8,
+      "Shear Vv (kN)": 175,
+      "Torsion Mz (kNm)": 20.7
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "100x100x9.0SHS",
+      "Mass per m (kg/m)": 23.5,
+      "Axial Compression Ns (kN)": 944,
+      "Axial Tension Nt (kN)": 944,
+      "Moment Ms (kNm)": 31.0,
+      "Shear Vv (kN)": 276,
+      "Torsion Mz (kNm)": 23.2
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "100x100x6.0SHS",
+      "Mass per m (kg/m)": 16.7,
+      "Axial Compression Ns (kN)": 672,
+      "Axial Tension Nt (kN)": 672,
+      "Moment Ms (kNm)": 23.2,
+      "Shear Vv (kN)": 197,
+      "Torsion Mz (kNm)": 17.7
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "100x100x5.0SHS",
+      "Mass per m (kg/m)": 14.2,
+      "Axial Compression Ns (kN)": 571,
+      "Axial Tension Nt (kN)": 571,
+      "Moment Ms (kNm)": 20.0,
+      "Shear Vv (kN)": 168,
+      "Torsion Mz (kNm)": 15.4
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "100x100x4.0SHS",
+      "Mass per m (kg/m)": 11.6,
+      "Axial Compression Ns (kN)": 467,
+      "Axial Tension Nt (kN)": 467,
+      "Moment Ms (kNm)": 16.6,
+      "Shear Vv (kN)": 137,
+      "Torsion Mz (kNm)": 12.8
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "100x100x3.0SHS",
+      "Mass per m (kg/m)": 8.96,
+      "Axial Compression Ns (kN)": 359,
+      "Axial Tension Nt (kN)": 359,
+      "Moment Ms (kNm)": 11.7,
+      "Shear Vv (kN)": 105,
+      "Torsion Mz (kNm)": 10.1
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "100x100x2.5SHS",
+      "Mass per m (kg/m)": 7.53,
+      "Axial Compression Ns (kN)": 269,
+      "Axial Tension Nt (kN)": 302,
+      "Moment Ms (kNm)": 8.84,
+      "Shear Vv (kN)": 88,
+      "Torsion Mz (kNm)": 8.55
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "100x100x2.0SHS",
+      "Mass per m (kg/m)": 6.07,
+      "Axial Compression Ns (kN)": 172,
+      "Axial Tension Nt (kN)": 244,
+      "Moment Ms (kNm)": 6.33,
+      "Shear Vv (kN)": 71,
+      "Torsion Mz (kNm)": 6.98
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "89x89x6.0SHS",
+      "Mass per m (kg/m)": 14.7,
+      "Axial Compression Ns (kN)": 589,
+      "Axial Tension Nt (kN)": 589,
+      "Moment Ms (kNm)": 17.9,
+      "Shear Vv (kN)": 172,
+      "Torsion Mz (kNm)": 13.6
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "89x89x5.0SHS",
+      "Mass per m (kg/m)": 12.5,
+      "Axial Compression Ns (kN)": 502,
+      "Axial Tension Nt (kN)": 502,
+      "Moment Ms (kNm)": 15.5,
+      "Shear Vv (kN)": 147,
+      "Torsion Mz (kNm)": 11.9
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "89x89x4.0SHS",
+      "Mass per m (kg/m)": 10.2,
+      "Axial Compression Ns (kN)": 411,
+      "Axial Tension Nt (kN)": 411,
+      "Moment Ms (kNm)": 12.9,
+      "Shear Vv (kN)": 121,
+      "Torsion Mz (kNm)": 9.96
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "89x89x3.5SHS",
+      "Mass per m (kg/m)": 9.07,
+      "Axial Compression Ns (kN)": 364,
+      "Axial Tension Nt (kN)": 364,
+      "Moment Ms (kNm)": 11.5,
+      "Shear Vv (kN)": 107,
+      "Torsion Mz (kNm)": 8.93
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "89x89x2.0SHS",
+      "Mass per m (kg/m)": 5.38,
+      "Axial Compression Ns (kN)": 172,
+      "Axial Tension Nt (kN)": 216,
+      "Moment Ms (kNm)": 5.31,
+      "Shear Vv (kN)": 63,
+      "Torsion Mz (kNm)": 5.47
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "89x89x6.0SHS",
+      "Mass per m (kg/m)": 14.7,
+      "Axial Compression Ns (kN)": 589,
+      "Axial Tension Nt (kN)": 589,
+      "Moment Ms (kNm)": 17.9,
+      "Shear Vv (kN)": 172,
+      "Torsion Mz (kNm)": 13.6
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "89x89x5.0SHS",
+      "Mass per m (kg/m)": 12.5,
+      "Axial Compression Ns (kN)": 502,
+      "Axial Tension Nt (kN)": 502,
+      "Moment Ms (kNm)": 15.5,
+      "Shear Vv (kN)": 147,
+      "Torsion Mz (kNm)": 11.9
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "89x89x4.0SHS",
+      "Mass per m (kg/m)": 10.2,
+      "Axial Compression Ns (kN)": 411,
+      "Axial Tension Nt (kN)": 411,
+      "Moment Ms (kNm)": 12.9,
+      "Shear Vv (kN)": 121,
+      "Torsion Mz (kNm)": 9.96
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "89x89x3.5SHS",
+      "Mass per m (kg/m)": 9.07,
+      "Axial Compression Ns (kN)": 364,
+      "Axial Tension Nt (kN)": 364,
+      "Moment Ms (kNm)": 11.5,
+      "Shear Vv (kN)": 107,
+      "Torsion Mz (kNm)": 8.93
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "89x89x2.0SHS",
+      "Mass per m (kg/m)": 5.38,
+      "Axial Compression Ns (kN)": 172,
+      "Axial Tension Nt (kN)": 216,
+      "Moment Ms (kNm)": 5.31,
+      "Shear Vv (kN)": 63,
+      "Torsion Mz (kNm)": 5.47
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "75x75x6.0SHS",
+      "Mass per m (kg/m)": 12.0,
+      "Axial Compression Ns (kN)": 483,
+      "Axial Tension Nt (kN)": 483,
+      "Moment Ms (kNm)": 12.1,
+      "Shear Vv (kN)": 141,
+      "Torsion Mz (kNm)": 9.11
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "75x75x5.0SHS",
+      "Mass per m (kg/m)": 10.3,
+      "Axial Compression Ns (kN)": 414,
+      "Axial Tension Nt (kN)": 414,
+      "Moment Ms (kNm)": 10.6,
+      "Shear Vv (kN)": 121,
+      "Torsion Mz (kNm)": 8.06
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "75x75x4.0SHS",
+      "Mass per m (kg/m)": 8.49,
+      "Axial Compression Ns (kN)": 341,
+      "Axial Tension Nt (kN)": 341,
+      "Moment Ms (kNm)": 8.9,
+      "Shear Vv (kN)": 100,
+      "Torsion Mz (kNm)": 6.83
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "75x75x3.5SHS",
+      "Mass per m (kg/m)": 7.53,
+      "Axial Compression Ns (kN)": 302,
+      "Axial Tension Nt (kN)": 302,
+      "Moment Ms (kNm)": 7.97,
+      "Shear Vv (kN)": 88,
+      "Torsion Mz (kNm)": 6.15
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "75x75x3.0SHS",
+      "Mass per m (kg/m)": 6.6,
+      "Axial Compression Ns (kN)": 265,
+      "Axial Tension Nt (kN)": 265,
+      "Moment Ms (kNm)": 7.08,
+      "Shear Vv (kN)": 77,
+      "Torsion Mz (kNm)": 5.43
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "75x75x2.5SHS",
+      "Mass per m (kg/m)": 5.56,
+      "Axial Compression Ns (kN)": 223,
+      "Axial Tension Nt (kN)": 223,
+      "Moment Ms (kNm)": 5.75,
+      "Shear Vv (kN)": 65,
+      "Torsion Mz (kNm)": 4.65
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "75x75x2.0SHS",
+      "Mass per m (kg/m)": 4.5,
+      "Axial Compression Ns (kN)": 172,
+      "Axial Tension Nt (kN)": 181,
+      "Moment Ms (kNm)": 4.12,
+      "Shear Vv (kN)": 53,
+      "Torsion Mz (kNm)": 3.82
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "65x65x6.0SHS",
+      "Mass per m (kg/m)": 10.1,
+      "Axial Compression Ns (kN)": 407,
+      "Axial Tension Nt (kN)": 407,
+      "Moment Ms (kNm)": 8.67,
+      "Shear Vv (kN)": 119,
+      "Torsion Mz (kNm)": 6.46
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "65x65x5.0SHS",
+      "Mass per m (kg/m)": 8.75,
+      "Axial Compression Ns (kN)": 351,
+      "Axial Tension Nt (kN)": 351,
+      "Moment Ms (kNm)": 7.66,
+      "Shear Vv (kN)": 103,
+      "Torsion Mz (kNm)": 5.78
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "65x65x4.0SHS",
+      "Mass per m (kg/m)": 7.23,
+      "Axial Compression Ns (kN)": 290,
+      "Axial Tension Nt (kN)": 290,
+      "Moment Ms (kNm)": 6.49,
+      "Shear Vv (kN)": 85,
+      "Torsion Mz (kNm)": 4.95
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "65x65x3.0SHS",
+      "Mass per m (kg/m)": 5.66,
+      "Axial Compression Ns (kN)": 227,
+      "Axial Tension Nt (kN)": 227,
+      "Moment Ms (kNm)": 5.22,
+      "Shear Vv (kN)": 66,
+      "Torsion Mz (kNm)": 3.98
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "65x65x2.5SHS",
+      "Mass per m (kg/m)": 4.78,
+      "Axial Compression Ns (kN)": 192,
+      "Axial Tension Nt (kN)": 192,
+      "Moment Ms (kNm)": 4.45,
+      "Shear Vv (kN)": 56,
+      "Torsion Mz (kNm)": 3.42
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "65x65x2.0SHS",
+      "Mass per m (kg/m)": 3.88,
+      "Axial Compression Ns (kN)": 156,
+      "Axial Tension Nt (kN)": 156,
+      "Moment Ms (kNm)": 3.33,
+      "Shear Vv (kN)": 45,
+      "Torsion Mz (kNm)": 2.82
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "65x65x1.6SHS",
+      "Mass per m (kg/m)": 3.13,
+      "Axial Compression Ns (kN)": 110,
+      "Axial Tension Nt (kN)": 126,
+      "Moment Ms (kNm)": 2.37,
+      "Shear Vv (kN)": 36,
+      "Torsion Mz (kNm)": 2.31
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "64x64x6.0SHS",
+      "Mass per m (kg/m)": 9.96,
+      "Axial Compression Ns (kN)": 400,
+      "Axial Tension Nt (kN)": 400,
+      "Moment Ms (kNm)": 8.35,
+      "Shear Vv (kN)": 116,
+      "Torsion Mz (kNm)": 6.22
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "51.5x51.5x4.0SHS",
+      "Mass per m (kg/m)": 5.53,
+      "Axial Compression Ns (kN)": 222,
+      "Axial Tension Nt (kN)": 222,
+      "Moment Ms (kNm)": 3.84,
+      "Shear Vv (kN)": 65,
+      "Torsion Mz (kNm)": 2.89
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "50x50x5.0SHS",
+      "Mass per m (kg/m)": 6.39,
+      "Axial Compression Ns (kN)": 256,
+      "Axial Tension Nt (kN)": 256,
+      "Moment Ms (kNm)": 4.14,
+      "Shear Vv (kN)": 74,
+      "Torsion Mz (kNm)": 3.07
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "50x50x4.0SHS",
+      "Mass per m (kg/m)": 5.35,
+      "Axial Compression Ns (kN)": 215,
+      "Axial Tension Nt (kN)": 215,
+      "Moment Ms (kNm)": 3.59,
+      "Shear Vv (kN)": 62,
+      "Torsion Mz (kNm)": 2.7
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "50x50x3.0SHS",
+      "Mass per m (kg/m)": 4.25,
+      "Axial Compression Ns (kN)": 170,
+      "Axial Tension Nt (kN)": 170,
+      "Moment Ms (kNm)": 2.96,
+      "Shear Vv (kN)": 49,
+      "Torsion Mz (kNm)": 2.22
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "50x50x2.5SHS",
+      "Mass per m (kg/m)": 3.6,
+      "Axial Compression Ns (kN)": 145,
+      "Axial Tension Nt (kN)": 145,
+      "Moment Ms (kNm)": 2.54,
+      "Shear Vv (kN)": 42,
+      "Torsion Mz (kNm)": 1.93
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "50x50x2.0SHS",
+      "Mass per m (kg/m)": 2.93,
+      "Axial Compression Ns (kN)": 118,
+      "Axial Tension Nt (kN)": 118,
+      "Moment Ms (kNm)": 2.1,
+      "Shear Vv (kN)": 34,
+      "Torsion Mz (kNm)": 1.61
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "50x50x1.6SHS",
+      "Mass per m (kg/m)": 2.38,
+      "Axial Compression Ns (kN)": 95,
+      "Axial Tension Nt (kN)": 95,
+      "Moment Ms (kNm)": 1.61,
+      "Shear Vv (kN)": 28,
+      "Torsion Mz (kNm)": 1.33
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "40x40x4.0SHS",
+      "Mass per m (kg/m)": 4.09,
+      "Axial Compression Ns (kN)": 164,
+      "Axial Tension Nt (kN)": 164,
+      "Moment Ms (kNm)": 2.12,
+      "Shear Vv (kN)": 47,
+      "Torsion Mz (kNm)": 1.57
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "40x40x3.0SHS",
+      "Mass per m (kg/m)": 3.3,
+      "Axial Compression Ns (kN)": 133,
+      "Axial Tension Nt (kN)": 133,
+      "Moment Ms (kNm)": 1.8,
+      "Shear Vv (kN)": 38,
+      "Torsion Mz (kNm)": 1.34
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "40x40x2.5SHS",
+      "Mass per m (kg/m)": 2.82,
+      "Axial Compression Ns (kN)": 113,
+      "Axial Tension Nt (kN)": 113,
+      "Moment Ms (kNm)": 1.56,
+      "Shear Vv (kN)": 32,
+      "Torsion Mz (kNm)": 1.17
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "40x40x2.0SHS",
+      "Mass per m (kg/m)": 2.31,
+      "Axial Compression Ns (kN)": 92,
+      "Axial Tension Nt (kN)": 92,
+      "Moment Ms (kNm)": 1.3,
+      "Shear Vv (kN)": 26,
+      "Torsion Mz (kNm)": 0.989
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "40x40x1.6SHS",
+      "Mass per m (kg/m)": 1.88,
+      "Axial Compression Ns (kN)": 75,
+      "Axial Tension Nt (kN)": 75,
+      "Moment Ms (kNm)": 1.07,
+      "Shear Vv (kN)": 22,
+      "Torsion Mz (kNm)": 0.824
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "35x35x3.0SHS",
+      "Mass per m (kg/m)": 2.83,
+      "Axial Compression Ns (kN)": 114,
+      "Axial Tension Nt (kN)": 114,
+      "Moment Ms (kNm)": 1.33,
+      "Shear Vv (kN)": 32,
+      "Torsion Mz (kNm)": 0.978
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "35x35x2.5SHS",
+      "Mass per m (kg/m)": 2.42,
+      "Axial Compression Ns (kN)": 97,
+      "Axial Tension Nt (kN)": 97,
+      "Moment Ms (kNm)": 1.16,
+      "Shear Vv (kN)": 28,
+      "Torsion Mz (kNm)": 0.866
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "35x35x2.0SHS",
+      "Mass per m (kg/m)": 1.99,
+      "Axial Compression Ns (kN)": 79,
+      "Axial Tension Nt (kN)": 79,
+      "Moment Ms (kNm)": 0.975,
+      "Shear Vv (kN)": 23,
+      "Torsion Mz (kNm)": 0.735
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "35x35x1.6SHS",
+      "Mass per m (kg/m)": 1.63,
+      "Axial Compression Ns (kN)": 65,
+      "Axial Tension Nt (kN)": 65,
+      "Moment Ms (kNm)": 0.808,
+      "Shear Vv (kN)": 19,
+      "Torsion Mz (kNm)": 0.616
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "30x30x3.0SHS",
+      "Mass per m (kg/m)": 2.36,
+      "Axial Compression Ns (kN)": 94,
+      "Axial Tension Nt (kN)": 94,
+      "Moment Ms (kNm)": 0.932,
+      "Shear Vv (kN)": 26,
+      "Torsion Mz (kNm)": 0.676
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "30x30x2.5SHS",
+      "Mass per m (kg/m)": 2.03,
+      "Axial Compression Ns (kN)": 81,
+      "Axial Tension Nt (kN)": 81,
+      "Moment Ms (kNm)": 0.822,
+      "Shear Vv (kN)": 23,
+      "Torsion Mz (kNm)": 0.605
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "30x30x2.0SHS",
+      "Mass per m (kg/m)": 1.68,
+      "Axial Compression Ns (kN)": 67,
+      "Axial Tension Nt (kN)": 67,
+      "Moment Ms (kNm)": 0.695,
+      "Shear Vv (kN)": 19,
+      "Torsion Mz (kNm)": 0.519
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "30x30x1.6SHS",
+      "Mass per m (kg/m)": 1.38,
+      "Axial Compression Ns (kN)": 55,
+      "Axial Tension Nt (kN)": 55,
+      "Moment Ms (kNm)": 0.58,
+      "Shear Vv (kN)": 16,
+      "Torsion Mz (kNm)": 0.439
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "25x25x3.0SHS",
+      "Mass per m (kg/m)": 1.89,
+      "Axial Compression Ns (kN)": 75,
+      "Axial Tension Nt (kN)": 75,
+      "Moment Ms (kNm)": 0.603,
+      "Shear Vv (kN)": 21,
+      "Torsion Mz (kNm)": 0.43
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "25x25x2.5SHS",
+      "Mass per m (kg/m)": 1.64,
+      "Axial Compression Ns (kN)": 65,
+      "Axial Tension Nt (kN)": 65,
+      "Moment Ms (kNm)": 0.539,
+      "Shear Vv (kN)": 18,
+      "Torsion Mz (kNm)": 0.391
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "25x25x2.0SHS",
+      "Mass per m (kg/m)": 1.36,
+      "Axial Compression Ns (kN)": 54,
+      "Axial Tension Nt (kN)": 54,
+      "Moment Ms (kNm)": 0.462,
+      "Shear Vv (kN)": 15,
+      "Torsion Mz (kNm)": 0.341
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "25x25x1.6SHS",
+      "Mass per m (kg/m)": 1.12,
+      "Axial Compression Ns (kN)": 45,
+      "Axial Tension Nt (kN)": 45,
+      "Moment Ms (kNm)": 0.389,
+      "Shear Vv (kN)": 13,
+      "Torsion Mz (kNm)": 0.292
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "20x20x2.0SHS",
+      "Mass per m (kg/m)": 1.05,
+      "Axial Compression Ns (kN)": 42,
+      "Axial Tension Nt (kN)": 42,
+      "Moment Ms (kNm)": 0.276,
+      "Shear Vv (kN)": 11,
+      "Torsion Mz (kNm)": 0.2
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C350",
+      "Designation": "20x20x1.6SHS",
+      "Mass per m (kg/m)": 0.873,
+      "Axial Compression Ns (kN)": 35,
+      "Axial Tension Nt (kN)": 35,
+      "Moment Ms (kNm)": 0.236,
+      "Shear Vv (kN)": 10,
+      "Torsion Mz (kNm)": 0.175
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "150x150 x 6.0 SHS",
+      "Mass per m (kg/m)": 26.2,
+      "Axial Compression Ns (kN)": 1350,
+      "Axial Tension Nt (kN)": 1270,
+      "Moment Ms (kNm)": 71.0,
+      "Shear Vv (kN)": 397,
+      "Torsion Mz (kNm)": 55.7
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "150x150 x 5.0 SHS",
+      "Mass per m (kg/m)": 22.1,
+      "Axial Compression Ns (kN)": 1140,
+      "Axial Tension Nt (kN)": 1080,
+      "Moment Ms (kNm)": 54.6,
+      "Shear Vv (kN)": 336,
+      "Torsion Mz (kNm)": 47.8
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "150x150 x 4.0 SHS",
+      "Mass per m (kg/m)": 17.9,
+      "Axial Compression Ns (kN)": 776,
+      "Axial Tension Nt (kN)": 873,
+      "Moment Ms (kNm)": 38.9,
+      "Shear Vv (kN)": 273,
+      "Torsion Mz (kNm)": 39.3
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "125x125 x 6.0 SHS",
+      "Mass per m (kg/m)": 21.4,
+      "Axial Compression Ns (kN)": 1110,
+      "Axial Tension Nt (kN)": 1050,
+      "Moment Ms (kNm)": 48.6,
+      "Shear Vv (kN)": 325,
+      "Torsion Mz (kNm)": 37.4
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "125x125 x 5.0 SHS",
+      "Mass per m (kg/m)": 18.2,
+      "Axial Compression Ns (kN)": 937,
+      "Axial Tension Nt (kN)": 885,
+      "Moment Ms (kNm)": 41.1,
+      "Shear Vv (kN)": 276,
+      "Torsion Mz (kNm)": 32.3
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "125x125 x 4.0 SHS",
+      "Mass per m (kg/m)": 14.8,
+      "Axial Compression Ns (kN)": 762,
+      "Axial Tension Nt (kN)": 720,
+      "Moment Ms (kNm)": 29.7,
+      "Shear Vv (kN)": 225,
+      "Torsion Mz (kNm)": 26.7
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "100x100 x 6.0 SHS",
+      "Mass per m (kg/m)": 16.7,
+      "Axial Compression Ns (kN)": 864,
+      "Axial Tension Nt (kN)": 816,
+      "Moment Ms (kNm)": 29.8,
+      "Shear Vv (kN)": 253,
+      "Torsion Mz (kNm)": 22.7
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "100x100 x 5.0 SHS",
+      "Mass per m (kg/m)": 14.2,
+      "Axial Compression Ns (kN)": 735,
+      "Axial Tension Nt (kN)": 694,
+      "Moment Ms (kNm)": 25.7,
+      "Shear Vv (kN)": 216,
+      "Torsion Mz (kNm)": 19.8
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "100x100 x 4.0 SHS",
+      "Mass per m (kg/m)": 11.6,
+      "Axial Compression Ns (kN)": 600,
+      "Axial Tension Nt (kN)": 567,
+      "Moment Ms (kNm)": 21.0,
+      "Shear Vv (kN)": 177,
+      "Torsion Mz (kNm)": 16.5
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "100x100 x 3.8 SHS",
+      "Mass per m (kg/m)": 11.1,
+      "Axial Compression Ns (kN)": 572,
+      "Axial Tension Nt (kN)": 540,
+      "Moment Ms (kNm)": 19.6,
+      "Shear Vv (kN)": 169,
+      "Torsion Mz (kNm)": 15.8
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "100x100 x 3.3 SHS",
+      "Mass per m (kg/m)": 9.73,
+      "Axial Compression Ns (kN)": 502,
+      "Axial Tension Nt (kN)": 474,
+      "Moment Ms (kNm)": 15.9,
+      "Shear Vv (kN)": 148,
+      "Torsion Mz (kNm)": 14.0
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "100x100 x 3.0 SHS",
+      "Mass per m (kg/m)": 8.96,
+      "Axial Compression Ns (kN)": 440,
+      "Axial Tension Nt (kN)": 436,
+      "Moment Ms (kNm)": 13.9,
+      "Shear Vv (kN)": 135,
+      "Torsion Mz (kNm)": 12.9
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "100x100 x 2.8 SHS",
+      "Mass per m (kg/m)": 8.39,
+      "Axial Compression Ns (kN)": 383,
+      "Axial Tension Nt (kN)": 409,
+      "Moment Ms (kNm)": 12.5,
+      "Shear Vv (kN)": 127,
+      "Torsion Mz (kNm)": 12.2
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "100x100 x 2.5 SHS",
+      "Mass per m (kg/m)": 7.53,
+      "Axial Compression Ns (kN)": 305,
+      "Axial Tension Nt (kN)": 367,
+      "Moment Ms (kNm)": 10.6,
+      "Shear Vv (kN)": 114,
+      "Torsion Mz (kNm)": 11.0
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "100x100 x 2.3 SHS",
+      "Mass per m (kg/m)": 6.95,
+      "Axial Compression Ns (kN)": 259,
+      "Axial Tension Nt (kN)": 339,
+      "Moment Ms (kNm)": 9.35,
+      "Shear Vv (kN)": 105,
+      "Torsion Mz (kNm)": 10.2
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "100x100 x 2.0 SHS",
+      "Mass per m (kg/m)": 6.07,
+      "Axial Compression Ns (kN)": 196,
+      "Axial Tension Nt (kN)": 296,
+      "Moment Ms (kNm)": 7.63,
+      "Shear Vv (kN)": 92,
+      "Torsion Mz (kNm)": 8.97
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "90x90 x 3.0 SHS",
+      "Mass per m (kg/m)": 8.01,
+      "Axial Compression Ns (kN)": 413,
+      "Axial Tension Nt (kN)": 390,
+      "Moment Ms (kNm)": 11.9,
+      "Shear Vv (kN)": 121,
+      "Torsion Mz (kNm)": 10.3
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "90x90 x 2.5 SHS",
+      "Mass per m (kg/m)": 6.74,
+      "Axial Compression Ns (kN)": 305,
+      "Axial Tension Nt (kN)": 329,
+      "Moment Ms (kNm)": 9.03,
+      "Shear Vv (kN)": 102,
+      "Torsion Mz (kNm)": 8.8
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "90x90 x 2.0 SHS",
+      "Mass per m (kg/m)": 5.45,
+      "Axial Compression Ns (kN)": 196,
+      "Axial Tension Nt (kN)": 265,
+      "Moment Ms (kNm)": 6.48,
+      "Shear Vv (kN)": 82,
+      "Torsion Mz (kNm)": 7.2
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "89x89 x 6.0 SHS",
+      "Mass per m (kg/m)": 14.7,
+      "Axial Compression Ns (kN)": 757,
+      "Axial Tension Nt (kN)": 715,
+      "Moment Ms (kNm)": 23.0,
+      "Shear Vv (kN)": 222,
+      "Torsion Mz (kNm)": 17.4
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "89x89 x 5.0 SHS",
+      "Mass per m (kg/m)": 12.5,
+      "Axial Compression Ns (kN)": 646,
+      "Axial Tension Nt (kN)": 610,
+      "Moment Ms (kNm)": 19.9,
+      "Shear Vv (kN)": 190,
+      "Torsion Mz (kNm)": 15.3
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "89x89 x 3.5 SHS",
+      "Mass per m (kg/m)": 9.07,
+      "Axial Compression Ns (kN)": 468,
+      "Axial Tension Nt (kN)": 442,
+      "Moment Ms (kNm)": 14.5,
+      "Shear Vv (kN)": 138,
+      "Torsion Mz (kNm)": 11.5
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "75x75 x 6.0 SHS",
+      "Mass per m (kg/m)": 12.0,
+      "Axial Compression Ns (kN)": 621,
+      "Axial Tension Nt (kN)": 586,
+      "Moment Ms (kNm)": 15.6,
+      "Shear Vv (kN)": 181,
+      "Torsion Mz (kNm)": 11.7
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "75x75 x 5.0 SHS",
+      "Mass per m (kg/m)": 10.3,
+      "Axial Compression Ns (kN)": 532,
+      "Axial Tension Nt (kN)": 503,
+      "Moment Ms (kNm)": 13.6,
+      "Shear Vv (kN)": 156,
+      "Torsion Mz (kNm)": 10.4
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "75x75 x 4.0 SHS",
+      "Mass per m (kg/m)": 8.49,
+      "Axial Compression Ns (kN)": 438,
+      "Axial Tension Nt (kN)": 414,
+      "Moment Ms (kNm)": 11.4,
+      "Shear Vv (kN)": 129,
+      "Torsion Mz (kNm)": 8.78
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "75x75 x 3.5 SHS",
+      "Mass per m (kg/m)": 7.53,
+      "Axial Compression Ns (kN)": 388,
+      "Axial Tension Nt (kN)": 367,
+      "Moment Ms (kNm)": 10.2,
+      "Shear Vv (kN)": 114,
+      "Torsion Mz (kNm)": 7.9
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "75x75 x 3.3 SHS",
+      "Mass per m (kg/m)": 7.14,
+      "Axial Compression Ns (kN)": 368,
+      "Axial Tension Nt (kN)": 348,
+      "Moment Ms (kNm)": 9.75,
+      "Shear Vv (kN)": 108,
+      "Torsion Mz (kNm)": 7.54
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "75x75 x 3.0 SHS",
+      "Mass per m (kg/m)": 6.6,
+      "Axial Compression Ns (kN)": 341,
+      "Axial Tension Nt (kN)": 322,
+      "Moment Ms (kNm)": 8.99,
+      "Shear Vv (kN)": 99,
+      "Torsion Mz (kNm)": 6.98
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "75x75 x 2.8 SHS",
+      "Mass per m (kg/m)": 6.19,
+      "Axial Compression Ns (kN)": 319,
+      "Axial Tension Nt (kN)": 302,
+      "Moment Ms (kNm)": 8.16,
+      "Shear Vv (kN)": 93,
+      "Torsion Mz (kNm)": 6.59
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "75x75 x 2.5 SHS",
+      "Mass per m (kg/m)": 5.56,
+      "Axial Compression Ns (kN)": 287,
+      "Axial Tension Nt (kN)": 271,
+      "Moment Ms (kNm)": 6.9,
+      "Shear Vv (kN)": 84,
+      "Torsion Mz (kNm)": 5.98
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "75x75 x 2.3 SHS",
+      "Mass per m (kg/m)": 5.14,
+      "Axial Compression Ns (kN)": 259,
+      "Axial Tension Nt (kN)": 251,
+      "Moment Ms (kNm)": 6.07,
+      "Shear Vv (kN)": 77,
+      "Torsion Mz (kNm)": 5.56
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "75x75 x 2.0 SHS",
+      "Mass per m (kg/m)": 4.5,
+      "Axial Compression Ns (kN)": 196,
+      "Axial Tension Nt (kN)": 219,
+      "Moment Ms (kNm)": 4.91,
+      "Shear Vv (kN)": 68,
+      "Torsion Mz (kNm)": 4.91
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "75x75x6.0SHS",
+      "Mass per m (kg/m)": 12.0,
+      "Axial Compression Ns (kN)": 621,
+      "Axial Tension Nt (kN)": 586,
+      "Moment Ms (kNm)": 15.6,
+      "Shear Vv (kN)": 181,
+      "Torsion Mz (kNm)": 11.7
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "75x75x5.0SHS",
+      "Mass per m (kg/m)": 10.3,
+      "Axial Compression Ns (kN)": 532,
+      "Axial Tension Nt (kN)": 503,
+      "Moment Ms (kNm)": 13.6,
+      "Shear Vv (kN)": 156,
+      "Torsion Mz (kNm)": 10.4
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "75x75x4.0SHS",
+      "Mass per m (kg/m)": 8.49,
+      "Axial Compression Ns (kN)": 438,
+      "Axial Tension Nt (kN)": 414,
+      "Moment Ms (kNm)": 11.4,
+      "Shear Vv (kN)": 129,
+      "Torsion Mz (kNm)": 8.78
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "75x75x3.5SHS",
+      "Mass per m (kg/m)": 7.53,
+      "Axial Compression Ns (kN)": 388,
+      "Axial Tension Nt (kN)": 367,
+      "Moment Ms (kNm)": 10.2,
+      "Shear Vv (kN)": 114,
+      "Torsion Mz (kNm)": 7.9
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "75x75x3.3SHS",
+      "Mass per m (kg/m)": 7.14,
+      "Axial Compression Ns (kN)": 368,
+      "Axial Tension Nt (kN)": 348,
+      "Moment Ms (kNm)": 9.75,
+      "Shear Vv (kN)": 108,
+      "Torsion Mz (kNm)": 7.54
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "75x75x3.0SHS",
+      "Mass per m (kg/m)": 6.6,
+      "Axial Compression Ns (kN)": 341,
+      "Axial Tension Nt (kN)": 322,
+      "Moment Ms (kNm)": 8.99,
+      "Shear Vv (kN)": 99,
+      "Torsion Mz (kNm)": 6.98
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "75x75x2.8SHS",
+      "Mass per m (kg/m)": 6.19,
+      "Axial Compression Ns (kN)": 319,
+      "Axial Tension Nt (kN)": 302,
+      "Moment Ms (kNm)": 8.16,
+      "Shear Vv (kN)": 93,
+      "Torsion Mz (kNm)": 6.59
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "75x75x2.5SHS",
+      "Mass per m (kg/m)": 5.56,
+      "Axial Compression Ns (kN)": 287,
+      "Axial Tension Nt (kN)": 271,
+      "Moment Ms (kNm)": 6.9,
+      "Shear Vv (kN)": 84,
+      "Torsion Mz (kNm)": 5.98
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "75x75x2.3SHS",
+      "Mass per m (kg/m)": 5.14,
+      "Axial Compression Ns (kN)": 259,
+      "Axial Tension Nt (kN)": 251,
+      "Moment Ms (kNm)": 6.07,
+      "Shear Vv (kN)": 77,
+      "Torsion Mz (kNm)": 5.56
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "75x75x2.0SHS",
+      "Mass per m (kg/m)": 4.5,
+      "Axial Compression Ns (kN)": 196,
+      "Axial Tension Nt (kN)": 219,
+      "Moment Ms (kNm)": 4.91,
+      "Shear Vv (kN)": 68,
+      "Torsion Mz (kNm)": 4.91
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "65x65x6.0SHS",
+      "Mass per m (kg/m)": 10.1,
+      "Axial Compression Ns (kN)": 523,
+      "Axial Tension Nt (kN)": 494,
+      "Moment Ms (kNm)": 11.1,
+      "Shear Vv (kN)": 153,
+      "Torsion Mz (kNm)": 8.31
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "65x65x5.0SHS",
+      "Mass per m (kg/m)": 8.75,
+      "Axial Compression Ns (kN)": 451,
+      "Axial Tension Nt (kN)": 426,
+      "Moment Ms (kNm)": 9.85,
+      "Shear Vv (kN)": 132,
+      "Torsion Mz (kNm)": 7.43
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "65x65x4.0SHS",
+      "Mass per m (kg/m)": 7.23,
+      "Axial Compression Ns (kN)": 373,
+      "Axial Tension Nt (kN)": 352,
+      "Moment Ms (kNm)": 8.34,
+      "Shear Vv (kN)": 109,
+      "Torsion Mz (kNm)": 6.36
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "65x65x3.0SHS",
+      "Mass per m (kg/m)": 5.66,
+      "Axial Compression Ns (kN)": 292,
+      "Axial Tension Nt (kN)": 276,
+      "Moment Ms (kNm)": 6.71,
+      "Shear Vv (kN)": 85,
+      "Torsion Mz (kNm)": 5.11
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "65x65x2.8SHS",
+      "Mass per m (kg/m)": 5.31,
+      "Axial Compression Ns (kN)": 274,
+      "Axial Tension Nt (kN)": 259,
+      "Moment Ms (kNm)": 6.32,
+      "Shear Vv (kN)": 79,
+      "Torsion Mz (kNm)": 4.83
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "65x65x2.5SHS",
+      "Mass per m (kg/m)": 4.78,
+      "Axial Compression Ns (kN)": 247,
+      "Axial Tension Nt (kN)": 233,
+      "Moment Ms (kNm)": 5.54,
+      "Shear Vv (kN)": 72,
+      "Torsion Mz (kNm)": 4.4
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "65x65x2.3SHS",
+      "Mass per m (kg/m)": 4.42,
+      "Axial Compression Ns (kN)": 228,
+      "Axial Tension Nt (kN)": 215,
+      "Moment Ms (kNm)": 4.91,
+      "Shear Vv (kN)": 66,
+      "Torsion Mz (kNm)": 4.1
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "65x65x2.0SHS",
+      "Mass per m (kg/m)": 3.88,
+      "Axial Compression Ns (kN)": 196,
+      "Axial Tension Nt (kN)": 189,
+      "Moment Ms (kNm)": 3.97,
+      "Shear Vv (kN)": 58,
+      "Torsion Mz (kNm)": 3.63
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "65x65x1.6SHS",
+      "Mass per m (kg/m)": 3.13,
+      "Axial Compression Ns (kN)": 125,
+      "Axial Tension Nt (kN)": 153,
+      "Moment Ms (kNm)": 2.84,
+      "Shear Vv (kN)": 47,
+      "Torsion Mz (kNm)": 2.98
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "50x50x5.0SHS",
+      "Mass per m (kg/m)": 6.39,
+      "Axial Compression Ns (kN)": 330,
+      "Axial Tension Nt (kN)": 311,
+      "Moment Ms (kNm)": 5.33,
+      "Shear Vv (kN)": 96,
+      "Torsion Mz (kNm)": 3.95
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "50x50x4.0SHS",
+      "Mass per m (kg/m)": 5.35,
+      "Axial Compression Ns (kN)": 276,
+      "Axial Tension Nt (kN)": 261,
+      "Moment Ms (kNm)": 4.61,
+      "Shear Vv (kN)": 80,
+      "Torsion Mz (kNm)": 3.47
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "50x50x3.0SHS",
+      "Mass per m (kg/m)": 4.25,
+      "Axial Compression Ns (kN)": 219,
+      "Axial Tension Nt (kN)": 207,
+      "Moment Ms (kNm)": 3.8,
+      "Shear Vv (kN)": 63,
+      "Torsion Mz (kNm)": 2.86
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "50x50x2.8SHS",
+      "Mass per m (kg/m)": 3.99,
+      "Axial Compression Ns (kN)": 206,
+      "Axial Tension Nt (kN)": 194,
+      "Moment Ms (kNm)": 3.59,
+      "Shear Vv (kN)": 59,
+      "Torsion Mz (kNm)": 2.71
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "50x50x2.5SHS",
+      "Mass per m (kg/m)": 3.6,
+      "Axial Compression Ns (kN)": 186,
+      "Axial Tension Nt (kN)": 176,
+      "Moment Ms (kNm)": 3.27,
+      "Shear Vv (kN)": 54,
+      "Torsion Mz (kNm)": 2.48
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "50x50x2.3SHS",
+      "Mass per m (kg/m)": 3.34,
+      "Axial Compression Ns (kN)": 172,
+      "Axial Tension Nt (kN)": 163,
+      "Moment Ms (kNm)": 3.05,
+      "Shear Vv (kN)": 50,
+      "Torsion Mz (kNm)": 2.32
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "50x50x2.0SHS",
+      "Mass per m (kg/m)": 2.93,
+      "Axial Compression Ns (kN)": 151,
+      "Axial Tension Nt (kN)": 143,
+      "Moment Ms (kNm)": 2.66,
+      "Shear Vv (kN)": 44,
+      "Torsion Mz (kNm)": 2.07
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "50x50x1.6SHS",
+      "Mass per m (kg/m)": 2.38,
+      "Axial Compression Ns (kN)": 123,
+      "Axial Tension Nt (kN)": 116,
+      "Moment Ms (kNm)": 1.92,
+      "Shear Vv (kN)": 35,
+      "Torsion Mz (kNm)": 1.71
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "40x40x4.0SHS",
+      "Mass per m (kg/m)": 4.09,
+      "Axial Compression Ns (kN)": 211,
+      "Axial Tension Nt (kN)": 199,
+      "Moment Ms (kNm)": 2.73,
+      "Shear Vv (kN)": 61,
+      "Torsion Mz (kNm)": 2.02
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "40x40x3.0SHS",
+      "Mass per m (kg/m)": 3.3,
+      "Axial Compression Ns (kN)": 170,
+      "Axial Tension Nt (kN)": 161,
+      "Moment Ms (kNm)": 2.32,
+      "Shear Vv (kN)": 49,
+      "Torsion Mz (kNm)": 1.72
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "40x40x2.8SHS",
+      "Mass per m (kg/m)": 3.11,
+      "Axial Compression Ns (kN)": 161,
+      "Axial Tension Nt (kN)": 152,
+      "Moment Ms (kNm)": 2.2,
+      "Shear Vv (kN)": 46,
+      "Torsion Mz (kNm)": 1.64
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "40x40x2.5SHS",
+      "Mass per m (kg/m)": 2.82,
+      "Axial Compression Ns (kN)": 145,
+      "Axial Tension Nt (kN)": 137,
+      "Moment Ms (kNm)": 2.01,
+      "Shear Vv (kN)": 42,
+      "Torsion Mz (kNm)": 1.51
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "40x40x2.3SHS",
+      "Mass per m (kg/m)": 2.62,
+      "Axial Compression Ns (kN)": 135,
+      "Axial Tension Nt (kN)": 127,
+      "Moment Ms (kNm)": 1.88,
+      "Shear Vv (kN)": 39,
+      "Torsion Mz (kNm)": 1.42
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "40x40x2.0SHS",
+      "Mass per m (kg/m)": 2.31,
+      "Axial Compression Ns (kN)": 119,
+      "Axial Tension Nt (kN)": 112,
+      "Moment Ms (kNm)": 1.67,
+      "Shear Vv (kN)": 34,
+      "Torsion Mz (kNm)": 1.27
+  },
+  {
+      "Section Type": "Square Hollow Sections - Grade C450",
+      "Designation": "40x40x1.6SHS",
+      "Mass per m (kg/m)": 1.88,
+      "Axial Compression Ns (kN)": 96,
+      "Axial Tension Nt (kN)": 91,
+      "Moment Ms (kNm)": 1.36,
+      "Shear Vv (kN)": 28,
+      "Torsion Mz (kNm)": 1.06
+  }
 ] as const;
 
 export const sectionTypes = [...new Set(sectionData.map(d => d["Section Type"]))];
