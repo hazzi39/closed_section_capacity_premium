@@ -1,4 +1,4 @@
-[
+export const sectionData = [
   {
     "Section Type": "Rectangular Hollow Sections - Grade C350",
     "Designation": "250x150x9.0RHS",
